@@ -31,5 +31,5 @@ googleAnalyticsSiteUrl: "auto"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/Project-Display/events/", text: "Events"}
+# - {permalink: "/Project-Display/events/", text: "Events"}
  - {permalink: "/Project-Display/about/", text: "All Project"}
