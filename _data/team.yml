@@ -1,7 +1,7 @@
 -
     id: 8
     name: "Numerical Algorithm"
-    image: "NumericalAlgorithm.png"
+    image: "https://gonewiththewind4.github.io/Project-Display/images/NumericalAlgorithm.png"
     description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
     team: true
     current: true
