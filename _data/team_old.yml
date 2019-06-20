@@ -1,0 +1,161 @@
+-
+    id: 8
+    name: "Numerical Algorithm"
+    image: "https://gonewiththewind4.github.io/Project-Display/images/NumericalAlgorithm.png"
+    description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
+    team: true
+    current: true
+-
+    id: 8
+    name: "Mark Klaisoongnoen"
+    image: "mark.jpg"
+    description: "Mark studies High Performance Computing at EPCC (Edinburgh Parallel Computing Centre) and University of Edinburgh. Combining commercial experience in data science and software engineering he is passionate about machine learning techniques and their application. With EdIntelligence and its team the Co-President strives to provide deep insights into AI and ML in industry and research to all students at the University of Edinburgh."
+    social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/tanawat-mark-klaisoongnoen-049550127/"}
+    team: true 
+    current: true
+-
+-
+    id: 1
+    name: "Martin Asenov"
+    image: "martin.jpg"
+    description: "Currently, I am a PhD student at the University of Edinburgh, working on active sensing with UAV, in collaboration with Heriot-Watt University and the Defence Science and Technology Laboratory.
+
+Currently I am looking into the problem of active sensing using UAV mounted sensors (chemical, light, wing, etc.). For the purpose I am building probabilistic models of the entire field of interest (using Gaussian Processes for example), to inform sampling picking places of high uncertainty or possible highest readings. I am also interested in modular neural networks and physics engines to try to actively model dynamics of real-world scenes."
+    social:
+        - {name: "user", link: "https://masenov.github.io"}
+        - {name: "github", link: "https://github.com/masenov"}
+        - {name: "twitter", link: "https://twitter.com/masenov1"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/masenov1/"}
+    team: true 
+    current : true
+-
+
+    id: 0
+    name: "Leona Goebbels"
+    image: "leona.jpg"
+    description: "Leona studies Cognitive Science as an MSc student at the University of Edinburgh. Her special interest is in the field of Natural Language Processing. In the society, she holds the position of treasurer."
+    team: true
+-
+    id: 0
+    name: "Lauren Watson"
+    image: "lauren.jpg"
+    description: "Lauren studies Artifical Intelligence at the University of Edinburgh after becoming interested in the use of Bayesian methods in machine learning during her Undergraduate degree. She is also particularly interested in approximate inference and, recently, natural language processing."
+    team: true
+    current: true
+-
+
+-
+    id: 0
+    name: "Sarah Halpin"
+    image: "sarah.jpg"
+    description: "Sarah is studying for an MSc in Artificial Intelligence, specialising in natural language processing and cognitive science. She is particularly interested in applying data science and AI to solve problems in society and medicine."
+    team: true
+
+-
+    id: 0
+    name: "Joshua Uwaifo"
+    image: "joshua.jpg"
+    description: "Joshua is specialising in Machine Learning (ML) during his Artificial Intelligence masters degree.
+He aims to use technology as another medium to love one another.  
+His first formal interaction with ML began with a bootcamp hosted by Cambridge Spark 2 years ago coupled with a data science role at Cleveland Clinic Abu Dhabi. 
+His discrete maths undergraduate project/thesis at Warwick University involved using machine learning to help in modelling smart transfer decisions in football. 
+Currently, he is also working part time as a data science for a Germany-based venture capitalist, Earlybird. The modules he took/is taking are IAML, MLPR, MLP, RL, PMR and DME. Always here to help 🙌"
+    social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ojuwaifo/"}
+    team: null
+
+
+-
+    id: 0
+    name: "Gonçalo Correia"
+    image: "goncalo.jpg"
+    description: "Gonçalo is studying Artificial Intelligence in The University of Edinburgh. He got interested in Machine Learning in an undergraduate project where he got increasingly passionate about Machine Learning and all its possibilities after reading books and following online courses on the topic and eventually pursued his newfound dream by applying to Edinburgh. He is interested in using Machine Learning in Computer Vision and Natural Language Processing."
+    social:
+        - {name: "github", link: "https://github.com/goncalomcorreia"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/goncalommac"}
+    team: true
+-
+    id: 9
+    name: "Cian Eastwood"
+    image: "cian.jpg"
+    description: "Intrigued by the power of unsupervised feature learning and deep learning, Cian chose to study Artificial Intelligence at The University of Edinburgh. He is currently interested in representation learning and it's applicability to time-series prediction."
+    social:
+        - {name: "github", link: "https://github.com/cianeastwood"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/cianeastwood"}
+    team: true
+
+-
+   id: 2
+   name: "Andreea Pascu"
+   image: "andreea.jpg"
+   description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
+   team: null
+
+-
+   id: 3
+   name: "Ben Möws"
+   image: "ben.jpg"
+   description: "With a background in both business and computer science, Ben's interest in AI and statistics started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching lagged correlations in time series and deep learning approaches to stock market analysis."
+   team: null
+
+-
+   id: 4
+   name: "Jonathan Schwarz"
+   image: "jonathan.jpg"
+   description: "Jonathan got interested in Artificial Intelligence through his work on robotics during his undergraduate studies. Being fascinated by the possibility of allowing machines to learn, he decided to pursue a Master's in Edinburgh.
+   He is now particularly keen on applying Deep Learning to language."
+   social:
+       - {name: "github", link: "https://github.com/jonathan-schwarz"}
+   team: true
+
+-
+   id: 5
+   name: "Miguel Jacques"
+   image: "miguel.jpg"
+   description: "Miguel is an UoE M.Sc. Artificial Intelligence student."
+   team: true
+
+-
+   id: 6
+   name: "Nick Pawlowski"
+   image: "nick.jpg"
+   description: "Nick just started following developments in AI quite recently, when a friend showed him Stanfords CS231n course on Convolutional Neural Networks. This made him switch from Physics to AI. He is now particularly interested in Reinforcement Learning."
+   social:
+       - {name: "github", link: "https://github.com/pawni"}
+       - {name: "linkedin", link: "https://www.linkedin.com/in/nickpawlowski"}
+   team: null
+
+-
+    id: 7
+    name: "Todor Davchev"
+    image: "todor.jpg"
+    description: "Todor is interested in providing the world with innovative solutions. He studies and enjoys Artificial Intelligence and Machine Learning. As an enthusiastic and open-minded person, he is constantly looking for challenging opportunities that will expand and further enhance the world's knowledge and understanding of what intelligence is and how to apply it in the technology domain."
+    social:
+        - {name: "github", link: "https://github.com/yadrimz"}
+        - {name: "twitter", link: "https://twitter.com/yadrimz"}
+    team: true
+    current: true
+-
+    id: 7
+    name: "Paolo Marangio"
+    image: "paolo.jpg"
+    description: "Paolo is a biologist by training and an Edinburgh local, having lived here for 3 years while undertaking a MSc in Synthetic Biology and Biotechnology and subsequently working at the industrial biotechnology company Ingenza. He is deeply interested in the application of computing and biology for solving challenges in the field of healthcare and sustainability. As such, he decided to take on a new challenge and pursue a MSc in High Performance Computing with Data Science. He has previous start-up and university society experience and will be a flexible general member at EdIntelligence."
+    team: true
+    current: true
+-
+    id: 7
+    name: "Xing Wang"
+    image: "xing.jpg"
+    description: "Xing Wang studies Data Science as an MSc student at the University of Edinburgh. He has a background in Materials Science and now is particularly interested in Natural Language Processing."
+    team: true
+    current: true
+-
+    id: 7
+    name: "Danuphan"
+    image: "danuphan.jpg"
+    description: "I am passionate about Maths and Coding, and following a career path where Maths and coding perfectly fit together. I am very keen to know how each ML algorithm was developed and how to customize them. Apart from academics, I love taking photo, traveling, and sight-seeing. Oh, and really love playing badminton :D"
+    team: true
+    current: true
+
+
