@@ -4,6 +4,8 @@
     image: "NumericalAlgorithm_Square.jpg"
     description: " This is personal."
     url: "https://gonewiththewind4.github.io/Numerical-Algorithm"
+    start_time: "Sept.2019"
+    end_time: "Present"
     social:
         - {name: "github", link: "https://gonewiththewind4.github.io/Numerical-Algorithm/"}
     team: true
