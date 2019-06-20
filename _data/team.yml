@@ -3,6 +3,7 @@
     name: "Numerical Algorithm"
     image: "NumericalAlgorithm_Square.jpg"
     description: " This is personal."
+    url: "https://gonewiththewind4.github.io/Numerical-Algorithm"
     social:
         - {name: "github", link: "https://gonewiththewind4.github.io/Numerical-Algorithm/"}
     team: true
