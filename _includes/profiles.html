@@ -40,7 +40,8 @@
                             <a href="{{ teamMember.url }}" class="image member"><img src="{{ site.url }}/images/{{ teamMember.image }}" alt="" /></a><br>
                             </div>
                             <div class="9u 12u(narrower)">
-                            <h3><a href="{{ teamMember.url }}">{{ teamMember.name }}</a></h3>
+                            <h2><a href="{{ teamMember.url }}">{{ teamMember.name }}</a></h2>
+							<h3><i>{{teamMember.start_time}}-{{teamMember.end_time}}</i></h3>
                             <p>
                                 {{ teamMember.description }}
                             </p>
