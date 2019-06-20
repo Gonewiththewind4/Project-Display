@@ -1,7 +1,7 @@
 -
     id: 0
     name: "Numerical Algorithm"
-    image: "jl.jpg"
+    image: "NumericalAlgorithm_Square.jpg"
     description: " This is personal."
     social:
         - {name: "github", link: "https://gonewiththewind4.github.io/Numerical-Algorithm/"}
