@@ -5,8 +5,32 @@
     description: " This is personal."
     url: "https://gonewiththewind4.github.io/Numerical-Algorithm"
     start_time: "Sept.2019"
-    end_time: "Present"
+    end_time: "-Present"
     social:
         - {name: "github", link: "https://gonewiththewind4.github.io/Numerical-Algorithm/"}
+    team: true
+    current: true
+-
+    id: 1
+    name: "Program Skill"
+    image: "NumericalAlgorithm_Square.jpg"
+    description: " This is a coursework to cultivate program skill."
+    url: "https://gonewiththewind4.github.io/Program-Skill"
+    start_time: "Sept.2018"
+    end_time: "-Nov.2018"
+    social:
+        - {name: "github", link: "https://gonewiththewind4.github.io/Program-Skill"}
+    team: true
+    current: true
+-
+    id: 2
+    name: "Barclay Counterparty Credit Risk"
+    image: "NumericalAlgorithm_Square.jpg"
+    description: "This is a practice of a workshop provided by Barclay."
+    url: "https://gonewiththewind4.github.io/Barclay-Counterparty-Credit-Risk"
+    start_time: "Feb.2019"
+    end_time: ""
+    social:
+        - {name: "github", link: "https://gonewiththewind4.github.io/Barclay-Counterparty-Credit-Risk"}
     team: true
     current: true
