@@ -1,8 +1,7 @@
 -
     id: 8
     name: "Numerical Algorithm"
-    image: "https://gonewiththewind4.github.io/Project-Display/images/jl.jpg"
+    image: "jl.jpg"
     description: " ."
     team: true
-
     current: true
