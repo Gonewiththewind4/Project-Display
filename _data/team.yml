@@ -1,8 +1,8 @@
 -
-    id: 8
+    id: 0
     name: "Numerical Algorithm"
     image: "jl.jpg"
-    description: " ."
+    description: " This is personal."
     social:
         - {name: "github", link: "https://gonewiththewind4.github.io/Numerical-Algorithm/"}
     team: true
